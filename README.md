@@ -5,3 +5,9 @@ The project goal is to train LLM, Retrieval Augmented Generation (RAG), and Data
 It uses the RAG approach to augment the ChatGPT 3.5 model from OpenAI with the content from the Dataiku Knowledge Base to help Dataiku users find relevant answers to their questions.
 
 <h2>Steps</h2>
+
+<h3>1 - Configuration of the code environment and plugins for RAG in Dataiku</h3>
+
+<h3>2 - Vectorizing the dataset with an embed recipe </h3>
+
+
