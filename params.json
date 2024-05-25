@@ -15,7 +15,8 @@
   "additionalDashboardUsers": {
     "users": []
   },
-  "tutorialProject": false,
+  "tutorialProject": true,
+  "tutorialId": "TUT_LLM_QAWITHRAGAPPROACH",
   "settings": {
     "flowAnchorSourcesAndSinks": true,
     "flowDisplaySettings": {
@@ -137,7 +138,8 @@
     },
     "dkuProperties": []
   },
-  "name": "LLM - Question Answering with RAG Approach",
+  "name": "LLM - Question Answering with RAG Approach for boussacfadini",
+  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "showInitials": false,
   "metrics": {
