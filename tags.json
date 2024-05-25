@@ -1,12 +1,22 @@
 {
   "tags": {
-    "section:ML Practitioner": {},
-    "starter": {},
-    "downloads": {},
+    "section:ML Practitioner": {
+      "color": "#FFD83D"
+    },
+    "starter": {
+      "color": "#28aadd"
+    },
+    "downloads": {
+      "color": "#de1ea5"
+    },
     "imported": {
       "color": "#263238"
     },
-    "tutorial": {},
-    "academy": {}
+    "tutorial": {
+      "color": "#FFD83D"
+    },
+    "academy": {
+      "color": "#d66b9b"
+    }
   }
 }
