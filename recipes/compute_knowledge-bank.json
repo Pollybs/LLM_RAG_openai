@@ -4,7 +4,7 @@
   "optionalDependencies": false,
   "params": {
     "customConfig": {
-      "aggregation_method": "simple_average",
+      "aggregation_method": "SIF",
       "embedding_is_custom": false,
       "advanced_settings": false,
       "smoothing_parameter": 0.001,
