@@ -156,7 +156,7 @@
     },
     "dkuProperties": []
   },
-  "name": "LLM - Question Answering with RAG Approach for boussacfadini",
+  "name": "LLM - Chat OpenAI with RAG",
   "projectStatus": "Sandbox",
   "imgPattern": 8,
   "showInitials": false,
