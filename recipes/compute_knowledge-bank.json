@@ -3,7 +3,14 @@
   "neverRecomputeExistingPartitions": false,
   "optionalDependencies": false,
   "params": {
-    "customConfig": {},
+    "customConfig": {
+      "aggregation_method": "simple_average",
+      "embedding_is_custom": false,
+      "advanced_settings": false,
+      "smoothing_parameter": 0.001,
+      "n_principal_components": 1,
+      "text_column_names": []
+    },
     "containerSelection": {
       "containerMode": "INHERIT"
     }
