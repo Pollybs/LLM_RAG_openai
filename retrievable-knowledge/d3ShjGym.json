@@ -1,0 +1,32 @@
+{
+  "name": "knowledge_bank",
+  "retrieverType": "VECTOR_STORE_BACKED",
+  "rebuildBehavior": "EXPLICIT",
+  "vectorStoreType": "FAISS",
+  "embeddingLLMId": "openai:maxime_openAI:text-embedding-ada-002",
+  "envSelection": {
+    "envMode": "INHERIT"
+  },
+  "llmsExposedWith": [],
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "isabelle.godio"
+    },
+    "lastModifiedOn": 1697037937470,
+    "extendedProperties": {}
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "isabelle.godio"
+    },
+    "lastModifiedOn": 1697037937470,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
